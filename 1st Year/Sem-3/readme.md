@@ -1,1 +1,1 @@
-This Repository Contains the Java Programs created during 3rd Semester.
+This Repository Contains all the stuff created or obtained during 3rd Semester.
